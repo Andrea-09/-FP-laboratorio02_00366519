@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'Verifique el promedio'
+4
+1
+21
+'Ingrese los valores'
+5
+1
+7
+x, y, z
+6
+1
+9
+Promedio 
+9
+(x+y+z)/3
+4
+1
+35
+'El promedio es igual a ', Promedio
+7
+0
+1
+12
+(x+y+z)/3>=6
+4
+1
+24
+'Imprimir si es menor 6'
+13
+4
+1
+34
+'Imprimir si es mayor o igual a 6'
+13
+1
